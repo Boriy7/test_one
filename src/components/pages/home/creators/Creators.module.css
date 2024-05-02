@@ -1,0 +1,93 @@
+.creators {
+    padding-bottom: 80px;
+}
+
+.title {
+    color: white;
+    font-family: Work Sans;
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 45.6px;
+    margin-bottom: 10px;
+}
+
+.big_box {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 60px;
+}
+
+.text {
+    font-family: Work Sans;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 35.2px;
+    color: white;
+}
+
+.btn {
+    width: 247px;
+    height: 60px;
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid #A259FF;
+    border-radius: 12px;
+    align-items: center;
+    display: flex;
+    padding: 19px 50px;
+    font-family: Work Sans;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 22.4px;
+    color: white;
+    cursor: pointer;
+}
+
+.btn img {
+    margin-right: 12px;
+}
+
+.card {
+    width: 23.2%;
+    height: 255px;
+    background: #3B3B3B;
+    border-radius: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.assist_name {
+    font-family: Work Sans;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 30.8px;
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.card_text {
+    display: inline-flex;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    color: #858584;
+}
+
+.card_text p {
+    color: white;
+    font-family: Space Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    margin-left: 10px;
+}

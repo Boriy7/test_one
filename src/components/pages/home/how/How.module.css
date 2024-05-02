@@ -1,0 +1,58 @@
+.how {
+    padding-bottom: 80px;
+}
+
+.title {
+    font-family: Work Sans;
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 45.6px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.text {
+    font-family: Work Sans;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 35.2px;
+    color: white;
+    margin-bottom: 48px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 30%;
+    height: 450px;
+    border-radius: 20px;
+    background: #3B3B3B;
+    text-align: center;
+}
+
+.card_img {
+    margin-bottom: 20px;
+}
+
+.card_title {
+    font-family: Work Sans;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 30.8px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.card_text {
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    color: white;
+    width: 270px;
+    margin-left: 38px;
+}

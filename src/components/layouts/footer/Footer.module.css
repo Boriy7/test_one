@@ -1,0 +1,152 @@
+.footer {
+    background: #3B3B3B;
+    padding-top: 40px;
+    width: 100%;
+    padding-bottom: 40px;
+}
+
+.f_item {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.f_link {
+    font-family: Space Mono;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 35.2px;
+    color: white;
+    text-decoration: none;
+}
+
+.f_list:nth-child(2) a {
+    margin-left: 139px;
+    margin-right: 200px;
+}
+
+.item_text1 {
+    list-style-type: none;
+    margin-right: 89px;
+}
+
+.item_link {
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    color: #CCCCCC;
+    text-decoration: none;
+}
+
+.item_list:first-child {
+    margin: 0;
+    margin-bottom: 15px;
+    width: 238px;
+}
+
+.img_box {
+    align-items: center;
+    display: flex;
+    margin-top: 15px;
+}
+
+.social {
+    margin-right: 10px;
+}
+
+.ul_box {
+    display: flex;
+    margin-bottom: 30px;
+    justify-content: space-between;
+}
+
+.item_text2 {
+    margin-right: 107px;
+    list-style-type: none;
+}
+
+.item_link2 {
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    color: #CCCCCC;
+    text-decoration: none;
+}
+
+.item_list2:first-child {
+    margin-bottom: 15px;
+}
+
+.item_list2:last-child {
+    margin-top: 15px;
+}
+
+.link3 {
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    color: #CCCCCC;
+    text-decoration: none;
+}
+
+.item_box3 {
+    width: 500px;
+}
+
+.input_box {
+    margin-top: 20px;
+    display: flex;
+}
+
+.input {
+    width: 425px;
+    height: 60px;
+    border-radius: 20px;
+    border: 0;
+    outline: 0;
+    padding: 19px;
+}
+
+.input::placeholder {
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    color: #2B2B2B;
+}
+
+.btn {
+    width: 211px;
+    height: 60px;
+    border-radius: 20px;
+    border: 0;
+    background: #A259FF;
+    display: flex;
+    align-items: center;
+    padding: 19px 50px;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22.4px;
+    color: white;
+    cursor: pointer;
+    transform: translate(-90px);
+}
+
+.line {
+    width: 100%;
+    border: 1px solid #858584;
+    margin-bottom: 20px;
+}
+
+.text {
+    font-family: Work Sans;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 13.2px;
+    color: #CCCCCC;
+}
